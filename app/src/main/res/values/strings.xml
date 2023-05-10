@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapchap</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="messages">messages</string>
+</resources>

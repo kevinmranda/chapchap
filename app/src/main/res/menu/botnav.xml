@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/calculator"
+        android:title="calculator"
+        android:icon="@drawable/access_point"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/phoneCall"
+        android:title="phonecall"
+        android:icon="@drawable/access_point"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/sendSms"
+        android:title="sendsms"
+        android:icon="@drawable/access_point"
+        android:enabled="true"/>
+</menu>
